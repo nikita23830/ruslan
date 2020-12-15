@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ruslan/static/css/main.d725c3ff.chunk.css",
+    "main.js": "/ruslan/static/js/main.ad19cbd9.chunk.js",
+    "main.js.map": "/ruslan/static/js/main.ad19cbd9.chunk.js.map",
+    "runtime-main.js": "/ruslan/static/js/runtime-main.e4ff9e9e.js",
+    "runtime-main.js.map": "/ruslan/static/js/runtime-main.e4ff9e9e.js.map",
+    "static/js/2.bb847df4.chunk.js": "/ruslan/static/js/2.bb847df4.chunk.js",
+    "static/js/2.bb847df4.chunk.js.map": "/ruslan/static/js/2.bb847df4.chunk.js.map",
+    "static/js/3.aaf14f22.chunk.js": "/ruslan/static/js/3.aaf14f22.chunk.js",
+    "static/js/3.aaf14f22.chunk.js.map": "/ruslan/static/js/3.aaf14f22.chunk.js.map",
+    "index.html": "/ruslan/index.html",
+    "static/css/main.d725c3ff.chunk.css.map": "/ruslan/static/css/main.d725c3ff.chunk.css.map",
+    "static/js/2.bb847df4.chunk.js.LICENSE.txt": "/ruslan/static/js/2.bb847df4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "ruslan/static/js/runtime-main.e4ff9e9e.js",
+    "ruslan/static/js/2.bb847df4.chunk.js",
+    "ruslan/static/css/main.d725c3ff.chunk.css",
+    "ruslan/static/js/main.ad19cbd9.chunk.js"
+  ]
+}
